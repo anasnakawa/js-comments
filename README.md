@@ -53,7 +53,10 @@ still w.i.p
 * jQuery UI
 
 ```js
-
+/*! jQuery UI - v1.10.3 - 2013-05-03
+* http://jqueryui.com
+* Includes: ...
+* Copyright 2013 jQuery Foundation and other contributors; Licensed MIT */
 ```
 
 * Bootstrap
@@ -191,56 +194,26 @@ THE SOFTWARE.
  */ 
 ```
 
-* bower
-
-```js
-
-```
-
-* pdf.js
-
-```js
-
-```
-
-* grunt
-
-```js
-
-```
-
 * ratchet
 
 ```js
-
-```
-
-* jade
-
-```js
-
-```
-
-* yeoman
-
-```js
-
+/*
+ * =====================================================
+ * Ratchet v2.0.0
+ * Copyright 2013 Connor Sears, Dave Gamache, and Jacob Thornton
+ * Licensed under http://www.opensource.org/licenses/MIT
+ *
+ * Designed and built by @connors, @dhg, and @fat.
+ * =====================================================
+ */
 ```
 
 * requirejs
 
 ```js
-
-```
-
-* flight
-
-```js
-
-```
-
-* mocha
-
-```js
-
+/** vim: et:ts=4:sw=4:sts=4
+ * @license RequireJS 2.1.10 Copyright (c) 2010-2014, The Dojo Foundation All Rights Reserved.
+ * Available via the MIT or new BSD license.
+ * see: http://github.com/jrburke/requirejs for details
+ */
 ```
